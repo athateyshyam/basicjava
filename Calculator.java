@@ -12,6 +12,6 @@ public class Calculator{
 		System.out.println("Division is "+(x/y));
 	}
 	public static void main(String[]args){
-		
+		add(7,5);
 	}
 }
