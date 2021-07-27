@@ -13,5 +13,6 @@ public class Calculator{
 	}
 	public static void main(String[]args){
 		add(7,5);
+		mul(10,7);
 	}
 }
