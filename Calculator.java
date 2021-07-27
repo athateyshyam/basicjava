@@ -9,6 +9,6 @@ public class Calculator{
 		System.out.println("Addition is "+(x*y));
 	}
 	public static void main(String[]args){
-		
+		mul(10,7);
 	}
 }
